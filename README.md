@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋<br>
 Im Regiana Hermawan</h1>
-<iframe src="https://giphy.com/embed/b2st8VdTIkG5y" width="400" height="480" frameBorder="0" class="giphy-embed" align="center" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/b2st8VdTIkG5y" width="400" height="480" frameBorder="0" class="giphy-embed" align="center" allowFullScreen></img>
 
 
 - 🔭 I’m currently working on PT.Kapuk
