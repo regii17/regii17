@@ -7,5 +7,6 @@ Im Regiana Hermawan</h1>
 - 👯 I’m looking to collaborate on <a href="https://about.google/">Google LLC</a>
 - 🤔 I’m looking for help how to become a <a href="https://www.forbes.com/billionaires/">rich man</a>
 - 📫 How to reach me: ianhermawan2309@gmail.com
-- ⚡ Fun fact: im always lazy
+- ⚡ Fun fact: im always sleep
+- <img src = "https://pixabay.com/id/gifs/burung-terbang-penerbangan-sayap-6916"></img>
 
