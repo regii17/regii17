@@ -8,5 +8,7 @@ Im Regiana Hermawan</h1>
 - 🤔 I’m looking for help how to become a <a href="https://www.forbes.com/billionaires/">rich man</a>
 - 📫 How to reach me: ianhermawan2309@gmail.com
 - ⚡ Fun fact: im always sleep
-- <img src = "https://pixabay.com/id/gifs/burung-terbang-penerbangan-sayap-6916"></img>
+![bird-6916_256](https://github.com/regii17/regii17/assets/108383190/eb8ffedb-c48a-423c-8ec3-90540b531ecd)
+
+
 
